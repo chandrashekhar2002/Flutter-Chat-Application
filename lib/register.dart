@@ -1,10 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 import 'clipper.dart';
 import 'Auth.dart';
 import 'login.dart';
-import 'home.dart';
 
 class register extends StatelessWidget{
   var authentication = new Auth();
